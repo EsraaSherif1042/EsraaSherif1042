@@ -6,8 +6,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/esraa-sherif-0190b72b2/" /></a>
-
+<a href="https://www.linkedin.com/in/esraa-sherif-0190b72b2/" target="_blank"><img src="https://img.shields.io/badge/-esraa%20sherif-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;learning
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javascript)&nbsp;
